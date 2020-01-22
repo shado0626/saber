@@ -45,7 +45,7 @@
     "saber-markdown": "^0.0.3",
     "saber-utils": "^0.1.0",
     "serve-static": "^1.13.2",
-    "superstruct": "^0.6.0",
+    "superstruct": "^0.8.0",
     "tapable": "^1.1.1",
     "time-fix-plugin": "^2.0.5",
     "url-loader": "^1.1.2",
